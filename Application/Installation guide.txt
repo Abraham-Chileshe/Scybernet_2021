@@ -1,0 +1,13 @@
+ScyberApp Installation Guide
+****************************
+1. Download the ScyberApp.rar file
+2. Open the File and double click on ScyberApp.exe
+3. Installation wizard will appear. 
+4. Navigate through the wizard and read the licence
+5. Finally Launch the Application
+
+Now you can access the website from you App
+
+
+HTTPS://WWW.SCYBERNET.TK
+
