@@ -1,0 +1,65 @@
+*{
+	margin:0px;
+	
+	
+}
+
+.topnav{
+	background-color:black;
+	width:100%;
+	padding:15px 9px;
+}
+@font-face{
+	font-family:"XXS";
+	src:url("../fonts/Danc.otf");
+}
+@font-face{
+	font-family:"XS";
+	src:url("../fonts/Quick.ttf");
+}
+@font-face{
+	font-family:"X";
+	src:url("../fonts/Houst.ttf");
+}
+.topnav a{
+	padding:15px 13px;
+	color:whitesmoke;
+	text-decoration:none;
+	text-align:right;
+}
+.row{
+	max-width:100%;
+}
+.logo{
+	margin-top:2em;
+	width:280px;
+	max-width:90%;
+}
+.lefter{
+	background-color:whitesmoke;
+	margin-bottom:5em;
+}
+.lefter a{
+	font-family:"XXS";
+	color:dodgweblue;
+	margin-left:15px;
+	text-decoration:none;
+	transition: 0.5s ease-in;
+
+}
+.lefter a:hover,focus{
+	color:black;
+	font-size:25px;
+	transition: 0.5s ease-in;
+	text-decoration:none;
+}
+.righter{
+	background-color:white;
+}
+.righter h1{
+	font-family:"XS";
+	background-color:white;
+}
+.activated{
+	color:black;
+}
