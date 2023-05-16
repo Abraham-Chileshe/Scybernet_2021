@@ -1,0 +1,88 @@
+*{
+	margin:0px;
+}
+body h1,h2,h3,h4,h5,h6{
+	font-family:"times new roman";
+}
+.header{
+	background-color:black;
+	color:white;
+	padding:8px 9px;
+}
+.header img{
+	width:100%;
+}
+
+.wall{
+	background-image:url("img/wall.jpg");
+	size:100%;
+}
+.searchbar{
+	width:50%;
+	margin-top:6em;
+	height:40px;
+	text-align:center;
+	border:2px solid #aaa;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	font-family:"comic sans ms" ;
+}
+.civic img{
+	border:2px solid black;
+}
+.searchbar:hover{
+background-color:black;
+color:white;
+border:2px solid red;
+}
+
+.searchbar_submit{
+	width:150px;
+
+}
+.download{
+	background-color:green;
+	padding:7px 8px;
+	color:white;
+	text-decoration:none;
+	
+}
+.download:hover{
+		background-color:black;
+		border:2px solid green;
+		color:white;
+		text-decoration:none;
+	
+	
+}
+.options {
+	width:70%;
+	background-color:black;
+	
+}
+.options a {
+	text-decoration:none;
+	color:white;
+	padding:9px 8px;
+	background-color:black;
+	border:2px solid dodgerblue;
+}
+.options a:hover{
+	background-color:whitesmoke;
+	color:black;
+	transition:1s;
+}
+#img1{
+	width:500px;
+	max-width:100%;
+}
+.img1_banner{
+	background-color:black;
+}
+.sec2{
+	margin-top:2em;
+	background-color:whitesmoke;
+	padding:10px 18px;
+}
